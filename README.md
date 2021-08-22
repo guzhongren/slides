@@ -1,4 +1,4 @@
 ## Slides
 
 - [x] [C4-Model](https://guzhongren.github.io/slides/talks/C4-Model/)
-- [x] [slides](https://guzhongren.github.io/slides/talks/slides/)
+- [x] [Demo](https://guzhongren.github.io/slides/talks/Demo/)
