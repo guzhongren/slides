@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "slidev ./05.Slides/C4-Model.md",
-    "build": "slidev build ./05.Slides/C4-Model.md",
+    "build": "slidev build ./05.Slides/C4-Model.md --base /talks/c4-model/ --out dist/talks/c4-model/",
     "export": "slidev export ./05.Slides/C4-Model.md"
   },
   "repository": {

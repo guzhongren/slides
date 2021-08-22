@@ -28,3 +28,12 @@ jobs:
         cache: 'yarn'
     - run: yarn
     - run: node build/index.js
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        # deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        personal_token: ${{ secrets.PERSONAL_TOKEN }}
+        publish_dir: ./dist
+        publish_branch: master
+        user_name: guzhongren
+        user_email: guzhongren@live.cn

@@ -13,7 +13,7 @@ const dir = "./05.Slides/*";
       "--base",
       `/talks/${file.name}/`,
       "--out",
-      `dist/${file.name}/`,
+      `dist/talks/${file.name}/`,
     ]);
   });
 })();
