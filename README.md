@@ -13,5 +13,5 @@
 
 [05.GitHub-Actions.md](/slides/talks/05.GitHub-Actions.md), [download pdf](/slides/talks/05.GitHub-Actions.md/05.GitHub-Actions.md.pdf)
 
-[06.Architecture-Diagram.md](/slides/talks/06.Architecture-Diagram.md), [download pdf](/slides/talks/06.Architecture-Diagram.md/06.Architecture-Diagram.md.pdf)
+[06.Architecture-Diagrams.md](/slides/talks/06.Architecture-Diagrams.md), [download pdf](/slides/talks/06.Architecture-Diagrams.md/06.Architecture-Diagrams.md.pdf)
 
