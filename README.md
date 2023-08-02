@@ -1,6 +1,3 @@
-## Slides
-
-
 🎙️ [00.Demo.md](/slides/talks/00.Demo.md), [📚 PDF](/slides/talks/00.Demo.md/00.Demo.md.pdf)
 
 🎙️ [01.C4-Model.md](/slides/talks/01.C4-Model.md), [📚 PDF](/slides/talks/01.C4-Model.md/01.C4-Model.md.pdf)
