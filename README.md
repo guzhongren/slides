@@ -15,3 +15,5 @@
 
 🎙️ [06.Architecture-Diagrams.md](/slides/talks/06.Architecture-Diagrams.md), [📚 PDF](/slides/talks/06.Architecture-Diagrams.md/06.Architecture-Diagrams.md.pdf)
 
+🎙️ [07.Incident-Response-Plan.md](/slides/talks/07.Incident-Response-Plan.md), [📚 PDF](/slides/talks/07.Incident-Response-Plan.md/07.Incident-Response-Plan.md.pdf)
+
