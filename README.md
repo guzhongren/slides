@@ -10,7 +10,7 @@
 
 🎙️ [05.GitHub Actions.md](/slides/talks/05.GitHub Actions.md), [📚 PDF](/slides/talks/05.GitHub Actions.md/05.GitHub Actions.md.pdf)
 
-🎙️ [06.Architecture Diagrams.md](/slides/talks/06.Architecture Diagrams.md), [📚 PDF](/slides/talks/06.Architecture Diagrams.md/06.Architecture Diagrams.md.pdf)
+🎙️ [06.Software Architecture Diagrams.md](/slides/talks/06.Software Architecture Diagrams.md), [📚 PDF](/slides/talks/06.Software Architecture Diagrams.md/06.Software Architecture Diagrams.md.pdf)
 
 🎙️ [07.Incident Response Plan.md](/slides/talks/07.Incident Response Plan.md), [📚 PDF](/slides/talks/07.Incident Response Plan.md/07.Incident Response Plan.md.pdf)
 
