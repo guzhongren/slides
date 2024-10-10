@@ -14,3 +14,5 @@
 
 🎙️ [07.Incident Response Plan.md](/slides/talks/07.Incident Response Plan.md), [📚 PDF](/slides/talks/07.Incident Response Plan.md/07.Incident Response Plan.md.pdf)
 
+🎙️ [08.Basic Knowledge of GIS.md](/slides/talks/08.Basic Knowledge of GIS.md), [📚 PDF](/slides/talks/08.Basic Knowledge of GIS.md/08.Basic Knowledge of GIS.md.pdf)
+
