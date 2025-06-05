@@ -1,1 +1,0 @@
-import{o as t,b as s,e as o,f as a}from"../modules/vue-bJUDOLF-.js";import{u as c}from"./context-zpWJ3NXi.js";const r={class:"slidev-layout center h-full grid place-content-center fact"},n={class:"my-auto"},u={__name:"fact",setup(l){return c(),(e,_)=>(t(),s("div",r,[o("div",n,[a(e.$slots,"default")])]))}};export{u as _};
