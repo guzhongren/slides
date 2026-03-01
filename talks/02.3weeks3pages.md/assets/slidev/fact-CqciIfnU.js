@@ -1,0 +1,1 @@
+import{f as t,o as s,g as o,j as a}from"../modules/vue-CMVMDVXa.js";import{u as c}from"./context-CmPRi2Kn.js";const r={class:"slidev-layout center h-full grid place-content-center fact"},n={class:"my-auto"},u={__name:"fact",setup(l){return c(),(e,_)=>(s(),t("div",r,[o("div",n,[a(e.$slots,"default")])]))}};export{u as _};

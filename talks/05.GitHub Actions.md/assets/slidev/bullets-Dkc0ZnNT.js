@@ -1,0 +1,1 @@
+import{f as s,o as t,g as o,j as l}from"../modules/vue-CMVMDVXa.js";import{u as a}from"./context-BZ1ZoZz8.js";const r={class:"slidev-layout h-full grid bullets"},c={class:"pt-18"},u={__name:"bullets",setup(_){return a(),(e,n)=>(t(),s("div",r,[o("div",c,[l(e.$slots,"default")])]))}};export{u as _};
