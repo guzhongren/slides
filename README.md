@@ -16,3 +16,5 @@
 
 🎙️ [08.Basic Knowledge of GIS.md](/slides/talks/08.Basic Knowledge of GIS.md), [📚 PDF](/slides/talks/08.Basic Knowledge of GIS.md/08.Basic Knowledge of GIS.md.pdf)
 
+🎙️ [09.Basic Knowledge of K8S.md](/slides/talks/09.Basic Knowledge of K8S.md), [📚 PDF](/slides/talks/09.Basic Knowledge of K8S.md/09.Basic Knowledge of K8S.md.pdf)
+
